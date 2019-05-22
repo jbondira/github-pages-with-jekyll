@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Thebestappever User Guide
 
-I'm glad you are here. I plan to talk about ...
+This guide will help you understand how to use the many features available in the Bestappever.
